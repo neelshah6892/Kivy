@@ -1,0 +1,1 @@
+https://pypi.python.org/pypi/Kivy/1.9.1
